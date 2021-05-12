@@ -1,0 +1,12 @@
+x>v
+v>x
+a>a1
+m>k
+k>a2
+K>U
+U>K
+F>p
+p>F
+t>a3
+1/m>1/k
+1/k>1/m

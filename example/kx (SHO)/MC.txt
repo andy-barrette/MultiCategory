@@ -1,0 +1,15 @@
+x,v,a,m,k,K,U,F,p,t,1/m,1/k
+g,2;f,2;d,2;*c,2;Ei,1;ri,1
+d,x,t=v
+d,v,t=a
+d,p,t=F
+d,U,x=F
+*,m,v=p
+*,k,x=F
+*,m,a=F
+E,K=U
+f,k,x=U
+f,m,v=K
+f,1/m,p=K
+r,m=1/m
+r,k=1/k

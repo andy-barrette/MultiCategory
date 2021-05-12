@@ -1,0 +1,13 @@
+x>U
+v>F
+a>k
+m>a1
+g>a2
+k>a
+K>a3
+U>x
+F>a4
+p>a5
+t>x
+1/m>a6
+1/k>a7
